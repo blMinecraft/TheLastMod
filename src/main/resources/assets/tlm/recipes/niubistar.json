@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "ABA",
+        "BCB",
+        "ABA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "tlm:wocaonb"
+        },
+        
+        "B":
+        {
+            "item": "tlm:upandaway"
+           
+        },
+        
+        "C":
+        {
+            "item": "minecraft:nether_star"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tlm:niubistar",
+        "count": 1
+    }
+}

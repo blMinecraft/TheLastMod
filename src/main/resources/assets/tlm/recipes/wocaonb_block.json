@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "tlm:wocaonb"
+        }
+        
+   
+    },
+    
+    "result":
+    {
+        "item": "tlm:wocaonb_block",
+        "count": 1
+    }
+}

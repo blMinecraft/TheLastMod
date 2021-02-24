@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients":[
+    
+        {"item": "tlm:wocaonb_block", "data": 0}
+    
+    ],
+    
+
+
+    "result":
+    {
+        "item": "tlm:wocaonb",
+        "count": 9
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "A A",
+        "A A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "tlm:upandaway"
+        }
+        
+
+    },
+    
+    "result":
+    {
+        "item": "tlm:upandaway_tui",
+        "count": 1
+    }
+}

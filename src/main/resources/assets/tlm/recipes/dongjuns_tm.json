@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AA ",
+        " B ",
+        " B "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "tlm:upandaway"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:stick"
+            
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "tlm:dongjuns_tm",
+        "count": 1
+    }
+}
